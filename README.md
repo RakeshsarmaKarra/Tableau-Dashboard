@@ -1,5 +1,5 @@
-# Tableau-Dashboard
-A Study on Pantawid Indigenous People (IP) Data
+## Tableau-Dashboard
+#A Study on Pantawid Indigenous People (IP) Data
 
 # Abstract:
 In this Research, we are doing an analysis on the Pantawid Indigenous people (IP) data which investigates the social and economic traits and wellbeing results of Indigenous peoples in the Philippines. These people are frequently excluded and subjected to socioeconomic inequality, making it necessary to implement specific programs to meet their basic needs. The purpose of this study is to shed light on the Demographics, Education, and healthcare of IP communities.
