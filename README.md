@@ -11,10 +11,15 @@ The MCCT (Modified Conditional Cash Transfer) is a part of this program implemen
 
 ## Objectives of the study:
 o	The main objective of the program is to allocate the resources based on their basic needs, age groups and gender.
+
 o	To enhance the quality of preventative healthcare for young children and pregnant mothers.
+
 o	To improve the number of students registered in and attending the school.
+
 o	To eradicate the child labor and improve the average food expenditure. 
+
 o	Show the visualizations of demographics of the people registered for the MCCT program based on different age groups and gender.
+
 o	To show top N City/Province that have the highest number of people registered for the program.
 
 ## Conclusion:
