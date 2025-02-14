@@ -62,4 +62,4 @@ To address these issues, the government introduced social welfare schemes like t
 
 ## 🚀 This analysis provides valuable insights to enhance the impact of the MCCT program, ensuring better socio-economic conditions for Indigenous people in the Philippines.
 
-# [Click here for tableau public profile](https://public.tableau.com/app/profile/rakesh.sarma.karra/vizzes)
+## View my tableau public profile: [Click here](https://public.tableau.com/app/profile/rakesh.sarma.karra/vizzes)
