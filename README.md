@@ -28,6 +28,7 @@ To address these issues, the government introduced social welfare schemes like t
 - Social Welfare Department
   
 🔹 The first phase of the program started in 2008 with 7,545 households across four municipalities.
+
 🔹 The Modified Conditional Cash Transfer (MCCT) program is an extension of 4Ps, specifically designed for the poorest families not covered under the Conditional Cash Transfer (CCT) program.
 
 ## Main Aim of MCCT
