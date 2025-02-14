@@ -6,7 +6,7 @@ This repository contains an interactive Tableau dashboard published on Tableau P
 ## Abstract
 In this research, we are doing an analysis on the Pantawid Indigenous People (IP) data, which investigates the social and economic traits and well-being results of Indigenous peoples in the Philippines. These people are frequently excluded and subjected to socioeconomic inequality, making it necessary to implement specific programs to meet their basic needs.
 
-The purpose of this study is to shed light on Demographics, Education, and Healthcare of IP communities. The study requires data such as:
+The purpose of this study is to shed light on ** Demographics, Education, and Healthcare of IP communities**. The study requires data such as:
 
 Number of people actively registered for the program from different Regions, Provinces, Cities/Municipalities, and Barangays.
 
