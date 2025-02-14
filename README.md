@@ -1,30 +1,64 @@
-## Tableau-Dashboard
-## This repository contains an interactive Tableau dashboard published on Tableau Public.
-[Click here to view the Dashboard](https://public.tableau.com/views/PhilippinesMCCTProgramDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+# Tableau-Dashboard
+This repository contains an interactive Tableau dashboard published on Tableau Public.
+🔗 Click here to view the Dashboard
 
-## A Study on Pantawid Indigenous People (IP) Data
+# A Study on Pantawid Indigenous People (IP) Data
+## Abstract
+In this research, we are doing an analysis on the Pantawid Indigenous People (IP) data, which investigates the social and economic traits and well-being results of Indigenous peoples in the Philippines. These people are frequently excluded and subjected to socioeconomic inequality, making it necessary to implement specific programs to meet their basic needs.
 
-## Abstract:
-In this Research, we are doing an analysis on the Pantawid Indigenous people (IP) data which investigates the social and economic traits and wellbeing results of Indigenous peoples in the Philippines. These people are frequently excluded and subjected to socioeconomic inequality, making it necessary to implement specific programs to meet their basic needs. The purpose of this study is to shed light on the Demographics, Education, and healthcare of IP communities.
-The study requires data like number of people actively registered for the program from different Regions, Province, City/Municipality and Barangay according to the age and gender variations. The focus of the study is to implement methods to alter the Conditional Cash Transfer program to a Modified Conditional Cash Transfer program which is a part of Pantawid Pamilyang Pilipino Program helps more to the homeless and indigenous people. The analysis provides insights into the demographic composition of the IP areas who are involved in the MCCT program, differences in access to healthcare and education, based on that we can able to provide some insights on the policy proposals, budget allocation, financial aids to enhance socioeconomic results. 
+The purpose of this study is to shed light on Demographics, Education, and Healthcare of IP communities. The study requires data such as:
 
-## Description of the Project:
-The Indigenous people are a broad category of ethnic groups with distinctive socioeconomic backgrounds and a variety of cultural legacies. These people in Philippines face a lot of issues, such as poverty, exclusion, and access to basic services. So, the government has introduced some social welfare schemes like the Pantawid Pamilyang Pilipino program (4Ps) to promote the well-being of under privileged communities, particularly Indigenous people, after realizing the necessity for specific measures to address the issues. This program was initiated in the year 2007 and implemented its first phase in 2008 with a set of 7545 households from 4 municipalities which was implemented by Department of Social and Welfare Development (DSWD) that includes Department of Health, Department of Education and Social welfare.
-The MCCT (Modified Conditional Cash Transfer) is a part of this program implemented to reach the very poor families who are not covered by the Conditional Cash Transfer program. The main aim of this program is to reduce the poverty and make the children who are between 0-18 years of age educated, nutrition and healthy for a better future. The Beneficiary of the program is selected through a targeting system survey knows as Listahanan based on their structure of house, access to the basic needs. The 4P’s program is 4th largest welfare program in the world with most of the population covered from this country. The Cash grants are categorized into 2 parts, one for the Education and the other for healthcare benefits.
+Number of people actively registered for the program from different Regions, Provinces, Cities/Municipalities, and Barangays.
+Data categorized by age and gender variations.
+The focus of the study is to implement methods to modify the Conditional Cash Transfer (CCT) program into a Modified Conditional Cash Transfer (MCCT) program, which is a part of the Pantawid Pamilyang Pilipino Program (4Ps) that helps homeless and indigenous people.
 
-## Objectives of the study:
-o	The main objective of the program is to allocate the resources based on their basic needs, age groups and gender.
+The analysis provides insights into:
+📊 Demographic composition of the IP areas involved in the MCCT program.
+🏥 Differences in access to healthcare and education.
+📢 Policy proposals, budget allocation, and financial aid recommendations to enhance socioeconomic outcomes.
 
-o	To enhance the quality of preventative healthcare for young children and pregnant mothers.
+# Description of the Project
+Indigenous people in the Philippines belong to diverse ethnic groups with distinctive socioeconomic backgrounds and cultural legacies. They face major challenges such as poverty, exclusion, and lack of access to basic services.
 
-o	To improve the number of students registered in and attending the school.
+To address these issues, the government introduced social welfare schemes like the Pantawid Pamilyang Pilipino Program (4Ps) in 2007, implemented by the Department of Social Welfare and Development (DSWD) in collaboration with:
 
-o	To eradicate the child labor and improve the average food expenditure. 
+- Department of Health
+- Department of Education
+- Social Welfare Department
+  
+🔹 The first phase of the program started in 2008 with 7,545 households across four municipalities.
+🔹 The Modified Conditional Cash Transfer (MCCT) program is an extension of 4Ps, specifically designed for the poorest families not covered under the Conditional Cash Transfer (CCT) program.
 
-o	Show the visualizations of demographics of the people registered for the MCCT program based on different age groups and gender.
+# Main Aim of MCCT
+✅ Reduce poverty among Indigenous people.
+✅ Ensure education, nutrition, and healthcare for children aged 0-18 years.
+✅ Targeting system survey (Listahanan) helps identify beneficiaries based on house structure and access to basic needs.
 
-o	To show top N City/Province that have the highest number of people registered for the program.
+💡 Did you know? The 4Ps program is the 4th largest welfare program in the world, covering the majority of the population in the Philippines.
 
-## Conclusion:
-From our analysis of Pantawid Indigenous People data, we found that total 0-5 years aged children including both Male and Female count is very less compared to remaining age groups. Among all age groups and gender, the 19+ years aged females are high in almost all Regions, Provinces, Cities and Barangays. The Provinces like Catandaunes, Siquijor, Eastern Samar are having the very total least count and, in these areas, the government can create awareness among the people about the benefits of the program. The Target audience like Assistant secretary and program managers and coordinators can make use of the analysis like where the count is low and where it is high along with the age and gender ration, they can modify the program outlines and implement new schemes for the wellbeing of beneficiaries.
- 
+💰 Cash Grants under the program are categorized into:
+1️⃣ Education Support
+2️⃣ Healthcare Benefits
+
+# Objectives of the Study
+✔️ Allocate resources based on basic needs, age groups, and gender.
+✔️ Enhance preventive healthcare for young children and pregnant mothers.
+✔️ Increase school enrollment and attendance.
+✔️ Eliminate child labor and improve food expenditure.
+✔️ Visualize demographic data of people registered under the MCCT program based on age and gender.
+✔️ Highlight top N Cities/Provinces with the highest number of registered beneficiaries.
+
+# Conclusion
+📌 Key Findings:
+📉 Children aged 0-5 years (both male and female) have the lowest count compared to other age groups.
+📊 Among all age groups, females aged 19+ years have the highest representation across most Regions, Provinces, Cities, and Barangays.
+🏙️ Provinces with the lowest number of beneficiaries include Catanduanes, Siquijor, and Eastern Samar.
+📢 Recommendation: The government should create awareness campaigns in these areas to educate people on the benefits of the program.
+
+# Target Audience
+🎯 Assistant Secretaries, Program Managers, and Coordinators can leverage this analysis to:
+🔹 Identify low-coverage areas and high-coverage areas.
+🔹 Modify program outlines for better implementation.
+🔹 Develop new schemes for the well-being of beneficiaries.
+
+# 🚀 This analysis provides valuable insights to enhance the impact of the MCCT program, ensuring better socio-economic conditions for Indigenous people in the Philippines.
