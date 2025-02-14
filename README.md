@@ -14,8 +14,10 @@ Data categorized by age and gender variations.
 The focus of the study is to implement methods to modify the Conditional Cash Transfer (CCT) program into a Modified Conditional Cash Transfer (MCCT) program, which is a part of the Pantawid Pamilyang Pilipino Program (4Ps) that helps homeless and indigenous people.
 
 The analysis provides insights into:
-📊 Demographic composition of the IP areas involved in the MCCT program.\n
+📊 Demographic composition of the IP areas involved in the MCCT program.
+
 🏥 Differences in access to healthcare and education.
+
 📢 Policy proposals, budget allocation, and financial aid recommendations to enhance socioeconomic outcomes.
 
 ## Description of the Project
