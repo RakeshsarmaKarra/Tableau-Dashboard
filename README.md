@@ -1,6 +1,6 @@
 # Tableau-Dashboard
 This repository contains an interactive Tableau dashboard published on Tableau Public.                                                                                        
-🔗 Click here to view the Dashboard
+[Click here to view the Dashboard](https://public.tableau.com/views/PhilippinesMCCTProgramDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 # A Study on Pantawid Indigenous People (IP) Data
 ## Abstract
