@@ -2,6 +2,8 @@
 This repository contains an interactive Tableau dashboard published on Tableau Public.                                                                                        
 [Click here to view the Dashboard](https://public.tableau.com/views/PhilippinesMCCTProgramDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+![Image](https://github.com/RakeshsarmaKarra/Tableau-Dashboard/blob/main/Tableau%20Dashboard.jpg)
+
 # A Study on Pantawid Indigenous People (IP) Data
 ## Abstract
 In this research, we are doing an analysis on the Pantawid Indigenous People (IP) data, which investigates the social and economic traits and well-being results of Indigenous peoples in the Philippines. These people are frequently excluded and subjected to socioeconomic inequality, making it necessary to implement specific programs to meet their basic needs.
